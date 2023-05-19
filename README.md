@@ -16,7 +16,7 @@ El usuario puede decidir si quiere palomitas, refresco y/o un combo.
   Depende de la elección, solicitará al usuario decidir las propiedades de los nachos o del hotdog respectivamente
   (Los atributos de tamaño de la bebida y de las palomitas estarán hardcodeados como el valor más grande cuando se trate de un combo)
   
-  Tras haber hecho la elección, preguntará si quiere agregar algo extra
+Tras haber hecho la elección, preguntará si quiere agregar algo extra
     +  Si dice que sí; solicitará de nuevo si quiere palomitas, refresco y/o un combo.
     +  Si dice que no; terminará de correr el código e imprimirá el recibo del cliente con los articulos seleccionados.
 
